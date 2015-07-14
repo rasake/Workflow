@@ -5,6 +5,3 @@ Comments
 
 Code
 
-
-def pythonfile():
-	pass
